@@ -1,7 +1,12 @@
 Note=US tweaks for the Notes.  Canada and Singapore are different.
 
+state/jurisdiction=state
 
 tax-free_reorganization_for_U.S._federal_income_tax_purposes=tax-free reorganization for U.S. federal income tax purposes
+
+overnight_courier.cl=overnight courier
+
+US_mail.cl=U.S. mail
 
 Note=Tweaks for the difference between the US use of "Stock" and the Canadian/Singapore use of "Shares".
 
